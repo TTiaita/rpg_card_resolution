@@ -1,10 +1,11 @@
 class Game
 
-	def initialize(iterations, player, challenge)
+	def initialize(iterations, skill, challenge, extra)
 		@deck = Deck.new
 		@iterations = iterations
-		@player = player
+		@skill = skill
 		@challenge = challenge
+		@extra = extra
 	end
 
 	def start
@@ -13,10 +14,24 @@ class Game
 
 	private
 	def play
-		result = {"wins" => 0, "losses" => 0}
+		result = {"wins" => 0, "losses" => 0, "extras" => 0, "pushed" => 0}
 		for i in 1..@iterations
 			gm = draw_cards @challenge
-			p = draw_cards @player.skill
+			p = 0
+			limit = @skill + @extra
+			draws = 0
+			pushed = false
+			loop do
+				p += draw_cards 1
+				draws += 1
+				if (draws > @skill)
+					result["extras"] += 1 
+					result["pushed"] += 1 if !pushed
+					pushed = true
+				end
+				break if (p > gm) || (draws >= limit)
+			end
+			
 			if (p > gm)
 				result['wins'] += 1
 			else
@@ -34,5 +49,3 @@ class Game
 		return result
 	end
 end
-
-Player = Struct.new(:skill, :behaviour)
