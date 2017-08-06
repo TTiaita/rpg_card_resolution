@@ -1,0 +1,134 @@
+-------
+--
+Challenge: 1	Skill: 1	Extra draws: 0		Win-rate: 43.6340%	Wins: 043634	Losses: 56366	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 1	Skill: 1	Extra draws: 1		Win-rate: 86.0200%	Wins: 086020	Losses: 13980	Mean extras: 0.56	Extra-rate: 56.4830%
+Challenge: 1	Skill: 1	Extra draws: 2		Win-rate: 97.6640%	Wins: 097664	Losses: 2336	Mean extras: 0.71	Extra-rate: 56.7230%
+Challenge: 1	Skill: 1	Extra draws: 3		Win-rate: 99.7340%	Wins: 099734	Losses: 266	Mean extras: 0.73	Extra-rate: 56.6850%
+--
+Challenge: 1	Skill: 2	Extra draws: 0		Win-rate: 85.8800%	Wins: 085880	Losses: 14120	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 1	Skill: 2	Extra draws: 1		Win-rate: 97.6680%	Wins: 097668	Losses: 2332	Mean extras: 0.14	Extra-rate: 14.0760%
+Challenge: 1	Skill: 2	Extra draws: 2		Win-rate: 99.7360%	Wins: 099736	Losses: 264	Mean extras: 0.17	Extra-rate: 14.0800%
+Challenge: 1	Skill: 2	Extra draws: 3		Win-rate: 99.9900%	Wins: 099990	Losses: 10	Mean extras: 0.17	Extra-rate: 14.1370%
+--
+Challenge: 1	Skill: 3	Extra draws: 0		Win-rate: 97.7890%	Wins: 097789	Losses: 2211	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 1	Skill: 3	Extra draws: 1		Win-rate: 99.7490%	Wins: 099749	Losses: 251	Mean extras: 0.02	Extra-rate: 2.3250%
+Challenge: 1	Skill: 3	Extra draws: 2		Win-rate: 99.9850%	Wins: 099985	Losses: 15	Mean extras: 0.03	Extra-rate: 2.3350%
+Challenge: 1	Skill: 3	Extra draws: 3		Win-rate: 100.0000%	Wins: 100000	Losses: 0	Mean extras: 0.03	Extra-rate: 2.2730%
+--
+Challenge: 1	Skill: 4	Extra draws: 0		Win-rate: 99.7470%	Wins: 099747	Losses: 253	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 1	Skill: 4	Extra draws: 1		Win-rate: 99.9900%	Wins: 099990	Losses: 10	Mean extras: 0.00	Extra-rate: 0.2480%
+Challenge: 1	Skill: 4	Extra draws: 2		Win-rate: 100.0000%	Wins: 100000	Losses: 0	Mean extras: 0.00	Extra-rate: 0.2440%
+Challenge: 1	Skill: 4	Extra draws: 3		Win-rate: 100.0000%	Wins: 100000	Losses: 0	Mean extras: 0.00	Extra-rate: 0.2250%
+--
+-------
+Challenge: 1	Skill: 5	Extra draws: 0		Win-rate: 99.9870%	Wins: 099987	Losses: 13	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 1	Skill: 5	Extra draws: 1		Win-rate: 100.0000%	Wins: 100000	Losses: 0	Mean extras: 0.00	Extra-rate: 0.0190%
+Challenge: 1	Skill: 5	Extra draws: 2		Win-rate: 100.0000%	Wins: 100000	Losses: 0	Mean extras: 0.00	Extra-rate: 0.0150%
+Challenge: 1	Skill: 5	Extra draws: 3		Win-rate: 100.0000%	Wins: 100000	Losses: 0	Mean extras: 0.00	Extra-rate: 0.0170%
+--
+Challenge: 2	Skill: 1	Extra draws: 0		Win-rate: 10.4990%	Wins: 010499	Losses: 89501	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 2	Skill: 1	Extra draws: 1		Win-rate: 46.9660%	Wins: 046966	Losses: 53034	Mean extras: 0.89	Extra-rate: 89.4320%
+Challenge: 2	Skill: 1	Extra draws: 2		Win-rate: 79.7420%	Wins: 079742	Losses: 20258	Mean extras: 1.42	Extra-rate: 89.3970%
+Challenge: 2	Skill: 1	Extra draws: 3		Win-rate: 94.5570%	Wins: 094557	Losses: 5443	Mean extras: 1.63	Extra-rate: 89.3130%
+--
+Challenge: 2	Skill: 2	Extra draws: 0		Win-rate: 46.8570%	Wins: 046857	Losses: 53143	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 2	Skill: 2	Extra draws: 1		Win-rate: 79.6310%	Wins: 079631	Losses: 20369	Mean extras: 0.53	Extra-rate: 53.1380%
+Challenge: 2	Skill: 2	Extra draws: 2		Win-rate: 94.7280%	Wins: 094728	Losses: 5272	Mean extras: 0.73	Extra-rate: 52.8370%
+Challenge: 2	Skill: 2	Extra draws: 3		Win-rate: 99.0300%	Wins: 099030	Losses: 970	Mean extras: 0.79	Extra-rate: 53.0120%
+--
+Challenge: 2	Skill: 3	Extra draws: 0		Win-rate: 79.6390%	Wins: 079639	Losses: 20361	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 2	Skill: 3	Extra draws: 1		Win-rate: 94.6480%	Wins: 094648	Losses: 5352	Mean extras: 0.20	Extra-rate: 20.3180%
+Challenge: 2	Skill: 3	Extra draws: 2		Win-rate: 98.9810%	Wins: 098981	Losses: 1019	Mean extras: 0.26	Extra-rate: 20.4190%
+Challenge: 2	Skill: 3	Extra draws: 3		Win-rate: 99.8670%	Wins: 099867	Losses: 133	Mean extras: 0.27	Extra-rate: 20.4000%
+--
+-------
+Challenge: 2	Skill: 4	Extra draws: 0		Win-rate: 94.5850%	Wins: 094585	Losses: 5415	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 2	Skill: 4	Extra draws: 1		Win-rate: 98.9770%	Wins: 098977	Losses: 1023	Mean extras: 0.05	Extra-rate: 5.3960%
+Challenge: 2	Skill: 4	Extra draws: 2		Win-rate: 99.8810%	Wins: 099881	Losses: 119	Mean extras: 0.06	Extra-rate: 5.4270%
+Challenge: 2	Skill: 4	Extra draws: 3		Win-rate: 99.9920%	Wins: 099992	Losses: 8	Mean extras: 0.07	Extra-rate: 5.3510%
+--
+Challenge: 2	Skill: 5	Extra draws: 0		Win-rate: 99.0660%	Wins: 099066	Losses: 934	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 2	Skill: 5	Extra draws: 1		Win-rate: 99.8620%	Wins: 099862	Losses: 138	Mean extras: 0.01	Extra-rate: 1.0070%
+Challenge: 2	Skill: 5	Extra draws: 2		Win-rate: 99.9870%	Wins: 099987	Losses: 13	Mean extras: 0.01	Extra-rate: 0.9770%
+Challenge: 2	Skill: 5	Extra draws: 3		Win-rate: 99.9990%	Wins: 099999	Losses: 1	Mean extras: 0.01	Extra-rate: 0.9910%
+--
+Challenge: 3	Skill: 1	Extra draws: 0		Win-rate: 1.4520%	Wins: 001452	Losses: 98548	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 3	Skill: 1	Extra draws: 1		Win-rate: 16.8520%	Wins: 016852	Losses: 83148	Mean extras: 0.98	Extra-rate: 98.4660%
+Challenge: 3	Skill: 1	Extra draws: 2		Win-rate: 47.2970%	Wins: 047297	Losses: 52703	Mean extras: 1.82	Extra-rate: 98.4590%
+Challenge: 3	Skill: 1	Extra draws: 3		Win-rate: 75.8930%	Wins: 075893	Losses: 24107	Mean extras: 2.35	Extra-rate: 98.4740%
+--
+Challenge: 3	Skill: 2	Extra draws: 0		Win-rate: 16.8580%	Wins: 016858	Losses: 83142	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 3	Skill: 2	Extra draws: 1		Win-rate: 47.5100%	Wins: 047510	Losses: 52490	Mean extras: 0.83	Extra-rate: 83.3380%
+Challenge: 3	Skill: 2	Extra draws: 2		Win-rate: 75.7510%	Wins: 075751	Losses: 24249	Mean extras: 1.36	Extra-rate: 83.4400%
+Challenge: 3	Skill: 2	Extra draws: 3		Win-rate: 91.8030%	Wins: 091803	Losses: 8197	Mean extras: 1.60	Extra-rate: 83.3500%
+--
+-------
+Challenge: 3	Skill: 3	Extra draws: 0		Win-rate: 47.5520%	Wins: 047552	Losses: 52448	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 3	Skill: 3	Extra draws: 1		Win-rate: 75.8560%	Wins: 075856	Losses: 24144	Mean extras: 0.52	Extra-rate: 52.4520%
+Challenge: 3	Skill: 3	Extra draws: 2		Win-rate: 91.8820%	Wins: 091882	Losses: 8118	Mean extras: 0.77	Extra-rate: 52.4240%
+Challenge: 3	Skill: 3	Extra draws: 3		Win-rate: 97.9980%	Wins: 097998	Losses: 2002	Mean extras: 0.84	Extra-rate: 52.2880%
+--
+Challenge: 3	Skill: 4	Extra draws: 0		Win-rate: 75.7200%	Wins: 075720	Losses: 24280	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 3	Skill: 4	Extra draws: 1		Win-rate: 91.7810%	Wins: 091781	Losses: 8219	Mean extras: 0.24	Extra-rate: 23.8950%
+Challenge: 3	Skill: 4	Extra draws: 2		Win-rate: 97.9180%	Wins: 097918	Losses: 2082	Mean extras: 0.32	Extra-rate: 24.2160%
+Challenge: 3	Skill: 4	Extra draws: 3		Win-rate: 99.6110%	Wins: 099611	Losses: 389	Mean extras: 0.34	Extra-rate: 24.0470%
+--
+Challenge: 3	Skill: 5	Extra draws: 0		Win-rate: 92.0180%	Wins: 092018	Losses: 7982	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 3	Skill: 5	Extra draws: 1		Win-rate: 97.9130%	Wins: 097913	Losses: 2087	Mean extras: 0.08	Extra-rate: 8.1550%
+Challenge: 3	Skill: 5	Extra draws: 2		Win-rate: 99.5870%	Wins: 099587	Losses: 413	Mean extras: 0.10	Extra-rate: 8.2990%
+Challenge: 3	Skill: 5	Extra draws: 3		Win-rate: 99.9370%	Wins: 099937	Losses: 63	Mean extras: 0.11	Extra-rate: 8.2630%
+--
+Challenge: 4	Skill: 1	Extra draws: 0		Win-rate: 0.1370%	Wins: 000137	Losses: 99863	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 4	Skill: 1	Extra draws: 1		Win-rate: 3.9430%	Wins: 003943	Losses: 96057	Mean extras: 1.00	Extra-rate: 99.8850%
+Challenge: 4	Skill: 1	Extra draws: 2		Win-rate: 20.6400%	Wins: 020640	Losses: 79360	Mean extras: 1.96	Extra-rate: 99.8400%
+Challenge: 4	Skill: 1	Extra draws: 3		Win-rate: 47.9010%	Wins: 047901	Losses: 52099	Mean extras: 2.75	Extra-rate: 99.8910%
+--
+-------
+Challenge: 4	Skill: 2	Extra draws: 0		Win-rate: 4.0350%	Wins: 004035	Losses: 95965	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 4	Skill: 2	Extra draws: 1		Win-rate: 20.6660%	Wins: 020666	Losses: 79334	Mean extras: 0.96	Extra-rate: 95.7910%
+Challenge: 4	Skill: 2	Extra draws: 2		Win-rate: 47.7620%	Wins: 047762	Losses: 52238	Mean extras: 1.75	Extra-rate: 95.8080%
+Challenge: 4	Skill: 2	Extra draws: 3		Win-rate: 73.3560%	Wins: 073356	Losses: 26644	Mean extras: 2.27	Extra-rate: 95.9750%
+--
+Challenge: 4	Skill: 3	Extra draws: 0		Win-rate: 20.5940%	Wins: 020594	Losses: 79406	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 4	Skill: 3	Extra draws: 1		Win-rate: 47.8410%	Wins: 047841	Losses: 52159	Mean extras: 0.80	Extra-rate: 79.5000%
+Challenge: 4	Skill: 3	Extra draws: 2		Win-rate: 73.3060%	Wins: 073306	Losses: 26694	Mean extras: 1.32	Extra-rate: 79.4900%
+Challenge: 4	Skill: 3	Extra draws: 3		Win-rate: 89.2220%	Wins: 089222	Losses: 10778	Mean extras: 1.58	Extra-rate: 79.4350%
+--
+Challenge: 4	Skill: 4	Extra draws: 0		Win-rate: 48.0330%	Wins: 048033	Losses: 51967	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 4	Skill: 4	Extra draws: 1		Win-rate: 73.2110%	Wins: 073211	Losses: 26789	Mean extras: 0.52	Extra-rate: 52.3590%
+Challenge: 4	Skill: 4	Extra draws: 2		Win-rate: 89.2800%	Wins: 089280	Losses: 10720	Mean extras: 0.79	Extra-rate: 52.2120%
+Challenge: 4	Skill: 4	Extra draws: 3		Win-rate: 96.5970%	Wins: 096597	Losses: 3403	Mean extras: 0.90	Extra-rate: 52.1280%
+--
+Challenge: 4	Skill: 5	Extra draws: 0		Win-rate: 73.4590%	Wins: 073459	Losses: 26541	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 4	Skill: 5	Extra draws: 1		Win-rate: 89.1840%	Wins: 089184	Losses: 10816	Mean extras: 0.27	Extra-rate: 26.8640%
+Challenge: 4	Skill: 5	Extra draws: 2		Win-rate: 96.6060%	Wins: 096606	Losses: 3394	Mean extras: 0.37	Extra-rate: 26.5990%
+Challenge: 4	Skill: 5	Extra draws: 3		Win-rate: 99.1550%	Wins: 099155	Losses: 845	Mean extras: 0.41	Extra-rate: 26.6460%
+--
+-------
+Challenge: 5	Skill: 1	Extra draws: 0		Win-rate: 0.0040%	Wins: 000004	Losses: 99996	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 5	Skill: 1	Extra draws: 1		Win-rate: 0.6970%	Wins: 000697	Losses: 99303	Mean extras: 1.00	Extra-rate: 99.9950%
+Challenge: 5	Skill: 1	Extra draws: 2		Win-rate: 6.4740%	Wins: 006474	Losses: 93526	Mean extras: 1.99	Extra-rate: 99.9940%
+Challenge: 5	Skill: 1	Extra draws: 3		Win-rate: 23.3020%	Wins: 023302	Losses: 76698	Mean extras: 2.93	Extra-rate: 99.9960%
+--
+Challenge: 5	Skill: 2	Extra draws: 0		Win-rate: 0.6840%	Wins: 000684	Losses: 99316	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 5	Skill: 2	Extra draws: 1		Win-rate: 6.6100%	Wins: 006610	Losses: 93390	Mean extras: 0.99	Extra-rate: 99.3060%
+Challenge: 5	Skill: 2	Extra draws: 2		Win-rate: 23.4260%	Wins: 023426	Losses: 76574	Mean extras: 1.93	Extra-rate: 99.3160%
+Challenge: 5	Skill: 2	Extra draws: 3		Win-rate: 47.7390%	Wins: 047739	Losses: 52261	Mean extras: 2.70	Extra-rate: 99.3140%
+--
+Challenge: 5	Skill: 3	Extra draws: 0		Win-rate: 6.6820%	Wins: 006682	Losses: 93318	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 5	Skill: 3	Extra draws: 1		Win-rate: 23.3080%	Wins: 023308	Losses: 76692	Mean extras: 0.93	Extra-rate: 93.3800%
+Challenge: 5	Skill: 3	Extra draws: 2		Win-rate: 47.9910%	Wins: 047991	Losses: 52009	Mean extras: 1.70	Extra-rate: 93.3850%
+Challenge: 5	Skill: 3	Extra draws: 3		Win-rate: 71.3390%	Wins: 071339	Losses: 28661	Mean extras: 2.22	Extra-rate: 93.5570%
+--
+Challenge: 5	Skill: 4	Extra draws: 0		Win-rate: 23.4510%	Wins: 023451	Losses: 76549	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 5	Skill: 4	Extra draws: 1		Win-rate: 47.8060%	Wins: 047806	Losses: 52194	Mean extras: 0.77	Extra-rate: 76.7310%
+Challenge: 5	Skill: 4	Extra draws: 2		Win-rate: 71.3520%	Wins: 071352	Losses: 28648	Mean extras: 1.29	Extra-rate: 76.4870%
+Challenge: 5	Skill: 4	Extra draws: 3		Win-rate: 87.2490%	Wins: 087249	Losses: 12751	Mean extras: 1.57	Extra-rate: 76.4210%
+--
+-------
+Challenge: 5	Skill: 5	Extra draws: 0		Win-rate: 47.7920%	Wins: 047792	Losses: 52208	Mean extras: 0.00	Extra-rate: 0.0000%
+Challenge: 5	Skill: 5	Extra draws: 1		Win-rate: 71.4390%	Wins: 071439	Losses: 28561	Mean extras: 0.52	Extra-rate: 51.7720%
+Challenge: 5	Skill: 5	Extra draws: 2		Win-rate: 87.2220%	Wins: 087222	Losses: 12778	Mean extras: 0.80	Extra-rate: 51.6210%
+Challenge: 5	Skill: 5	Extra draws: 3		Win-rate: 95.3610%	Wins: 095361	Losses: 4639	Mean extras: 0.93	Extra-rate: 51.8080%
+--
+-------

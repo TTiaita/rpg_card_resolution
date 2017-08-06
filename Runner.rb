@@ -72,7 +72,7 @@ class Runner
 				puts o
 				i += 1
 				puts "--" if (i % 4 == 0)
-				i %= 16
+				i %= 20
 				puts "-------" if (i == 0)
 			end
 			puts "-------"
